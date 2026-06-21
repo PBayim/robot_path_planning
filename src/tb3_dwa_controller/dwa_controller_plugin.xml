@@ -1,0 +1,10 @@
+<library path="tb3_dwa_controller">
+  <class name="tb3_dwa_controller/DWAController" type="tb3_dwa_controller::DWAController" base_class_type="nav2_core::Controller">
+    <description>
+      A from-scratch Dynamic Window Approach controller plugin: samples the
+      reachable velocity-space dynamic window, forward-simulates rollouts with
+      the unicycle model, and scores them against the local costmap (clearance),
+      the local sub-goal (heading), and forward speed.
+    </description>
+  </class>
+</library>
