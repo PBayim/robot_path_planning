@@ -4,25 +4,19 @@ A ROS 2 Nav2 stack for navigating a TurtleBot3 waffle\_pi through a dynamic envi
 
 ## Demo
 
-### Gazebo world with moving obstacles
 
-![Initial pose, local costmap and moving obstacles](media/initial_pose_and_costmaps.png)
 
-**Screencast: world overview**
-
-<video src="media/gazebo_world.webm" controls width="720"></video>
+[▶ Gazebo world overview](https://github.com/PBayim/robot_path_planning/issues/5#issue-4761319392)
 
 ### Navigation recordings
 
 **DWB (baseline)**
 
-<video src="media/nav-dwb-run1.webm" controls width="720"></video>
-<video src="media/nav-dwb-run2.webm" controls width="720"></video>
+[▶ DWB run 1](https://github.com/PBayim/robot_path_planning/issues/1#issue-4761300985) | [▶ DWB run 2](https://github.com/PBayim/robot_path_planning/issues/2#issue-4761302119)
 
 **Custom DWA**
 
-<video src="media/nav-custom-dwa-run1.webm" controls width="720"></video>
-<video src="media/nav-custom-dwa-run2.webm" controls width="720"></video>
+[▶ Custom DWA run 1](https://github.com/PBayim/robot_path_planning/issues/3#issue-4761303091) | [▶ Custom DWA run 2](https://github.com/PBayim/robot_path_planning/issues/4#issue-4761304308)
 
 ## Packages
 
