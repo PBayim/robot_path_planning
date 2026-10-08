@@ -1,4 +1,4 @@
-# TurtleBot3 Dynamic Obstacle Navigation
+# Dynamic Obstacle Navigation
 
 A ROS 2 Nav2 stack for navigating a TurtleBot3 waffle\_pi through a dynamic environment with moving obstacles. Includes a custom **Dynamic Window Approach (DWA)** local controller implemented as a `nav2_core::Controller` plugin, benchmarked against the stock Nav2 DWB controller.
 
